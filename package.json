@@ -1,6 +1,9 @@
 {
   "name": "node-api-example",
   "version": "1.0.0",
+  "engines" : {
+    "node": "9.3.0"
+  },
   "description": "A simple API built in Node and Express hosted on Heroku",
   "main": "index.js",
   "scripts": {
